@@ -1,4 +1,4 @@
-# OCUDU ↔ OAI UE ↔ AODT Bridge
+# OCUDU ↔ AODT Bridge ↔ OAI UE
 
 A Python/ZMQ bridge that applies AODT channel impulse responses (CIRs) and optional noise to the downlink and uplink IQ streams between an OCUDU gNB and an OAI UE.
 
